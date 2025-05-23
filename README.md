@@ -1,1 +1,1 @@
-Play: - https://github.com/Shaktisinh0044/Bubble-Game/
+Play: - (https://shaktisinh0044.github.io/Bubble-Game/)
